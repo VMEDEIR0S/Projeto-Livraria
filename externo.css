@@ -1,0 +1,29 @@
+.table1{ margin: 10% 38%;text-align: center; font-size: 30px;line-height: 150%; font-family: verdana; background-color: #507892; color: white;border-radius: 20px; box-shadow: 5px 5px 5px grey; width: 44%;}
+.bordimg{margin: 4% 17%; border-radius: 10%;}
+div{font-size: 30px; margin-left: 17%; margin-top: -6%; text-align: center}
+a{text-decoration: underline; color: white;}
+a.ancora:link{text-decoration: none; color: white;}
+a.ancora:visited{text-decoration: none; color: white;}
+a.ancora:hover{text-decoration: underline;}
+a.ancora:active{text-decoration: none; color: white;}
+.largura{width: 85%; border-radius: 50px; border-width: 10px;}
+.compra{color: #2F6A8E; font-size: 25px; text-align: center;}
+a.ancora2:link{text-decoration: none; color: #2F6A8E;}
+a.ancora2:visited{text-decoration: none; color: #2F6A8E;}
+a.ancora2:hover{text-decoration: underline;}
+a.ancora2:active{text-decoration: none; color: #2F6A8E;}
+.centralizar{margin: -4% 38%;}
+.voltar{ margin: 8% 16%; width: 200px;}
+.fundo{background-color: #EAEAEA}
+.contato{font-size: 20px; color: #507892; margin-left: 5% ; font-family: calibri; border-radius: 15px; border: double; width: 70%;}
+details{margin: 50px 240px;}
+.politica{color:#507892;font-size:20px;font-family:arial;text-decoration:underline;}
+p{color:#507892;font-size:21px;font-family:arial;}
+.foot{text-align: center; font-size: 15px; font-family: arial; padding: 15%;}
+.pesquisa{margin: -8% 38%; font-size: 25px; font-family: Lucida console; background-color: white;color: #605F5F; width: 44%; text-align: left; line-height: 130%; font-weight: lighter;}
+.cartoes{width: 40%;}
+
+#menu {width:14.6%; height: 6%; background: gray; margin: 12% 17%; border-radius: 10%;
+			       position:absolute; transition: height 2s; z-index: 2; color:white; overflow: hidden;}
+			#menu:hover {height:220px; background-color: #507892 ;}
+              
